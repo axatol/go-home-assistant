@@ -1,0 +1,1 @@
+# go-home-assistant
